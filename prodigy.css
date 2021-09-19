@@ -1,0 +1,18 @@
+P {
+	FONT-SIZE: 8pt; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Verdana
+}
+A:active {
+	FONT-WEIGHT: normal; COLOR: #rrggbb; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #000000; LINE-HEIGHT: normal; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #aaaaaa; TEXT-DECORATION: none
+}
+A:link {
+	COLOR: #rrggbb; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #rrggbb; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+BODY {
+	SCROLLBAR-FACE-COLOR: #666666; SCROLLBAR-HIGHLIGHT-COLOR: #aaaaaa; SCROLLBAR-SHADOW-COLOR: #444444; SCROLLBAR-ARROW-COLOR: #rrggbb; SCROLLBAR-TRACK-COLOR: #001100; scrollbar-3d-light-color: #555555
+}
